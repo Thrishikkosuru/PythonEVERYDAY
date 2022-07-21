@@ -1,16 +1,11 @@
-# PythonEVERYDAY
-Collects Python articles from various Sources
-NAMESPACE
-Name (which means name, a unique identifier) + Space(which talks something related to scope). Here, a name might be of any Python method or variable and space depends upon the location from where is trying to access a variable or a method.
+Types of data in Python
+Python has the following data types built-in by default, in these categories:
 
-# a is in the global namespace
-a = 5
-def some_func():
-
-	# b is in the local namespace
-	b = 6
-	def some_inner_func():
-
-		# c is in the nested local
-		# namespace
-		c = 7
+Text Type:	str
+Numeric Types:	int, float, complex
+Sequence Types:	list, tuple, range
+Mapping Type:	dict
+Set Types:	set, frozenset
+Boolean Type:	bool
+Binary Types:	bytes, bytearray, memoryview
+None Type:	NoneType

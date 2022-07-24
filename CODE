@@ -1,0 +1,8 @@
+Ternary operators are also known as conditional expressions are operators that evaluate something based on a condition being true or false.
+Syntax : 
+[on_true] if [expression] else [on_false]
+a, b = 10, 20
+mini = a if a < b else b
+print(f"minimum value is {mini}")
+
+OUTPUT = minimum value is 10

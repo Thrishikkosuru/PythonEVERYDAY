@@ -1,3 +1,4 @@
+TERNARY OPERATOR
 Ternary operators are also known as conditional expressions are operators that evaluate something based on a condition being true or false.
 Syntax : 
 [on_true] if [expression] else [on_false]
